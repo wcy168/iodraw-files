@@ -25,7 +25,7 @@
         <mxCell id="s8gvT0iOp-m78rGaopsO-9" value="power &amp;gt; 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="420" y="290" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="s8gvT0iOp-m78rGaopsO-11" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="s8gvT0iOp-m78rGaopsO-11" value="discharge" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="290" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="s8gvT0iOp-m78rGaopsO-12" value="charge" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -56,6 +56,9 @@
           <mxGeometry x="0.12" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s8gvT0iOp-m78rGaopsO-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
