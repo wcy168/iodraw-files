@@ -57,7 +57,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8gvT0iOp-m78rGaopsO-18" value="bess power" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+        <mxCell id="s8gvT0iOp-m78rGaopsO-18" value="charge/discharge power + grid power = chargers power&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="600" y="90" width="340" height="160" as="geometry" />
         </mxCell>
         <mxCell id="s8gvT0iOp-m78rGaopsO-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.363;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s8gvT0iOp-m78rGaopsO-18" target="s8gvT0iOp-m78rGaopsO-8">
