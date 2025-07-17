@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s8gvT0iOp-m78rGaopsO-5" value="discharge" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="340" width="80" height="100" as="geometry" />
+          <mxGeometry x="435" y="340" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s8gvT0iOp-m78rGaopsO-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="s8gvT0iOp-m78rGaopsO-2" target="s8gvT0iOp-m78rGaopsO-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
