@@ -20,16 +20,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s8gvT0iOp-m78rGaopsO-8" value="calculate the discharge power" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="425" y="340" width="90" height="60" as="geometry" />
+          <mxGeometry x="425" y="190" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s8gvT0iOp-m78rGaopsO-9" value="power &amp;gt; 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="420" y="440" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="s8gvT0iOp-m78rGaopsO-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s8gvT0iOp-m78rGaopsO-8" target="s8gvT0iOp-m78rGaopsO-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="430" as="sourcePoint" />
-            <mxPoint x="520" y="380" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
