@@ -19,7 +19,7 @@
             <mxPoint x="469.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8gvT0iOp-m78rGaopsO-8" value="calculate the discharge power" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="s8gvT0iOp-m78rGaopsO-8" value="calculate the charge/discharge power" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="425" y="190" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s8gvT0iOp-m78rGaopsO-9" value="power &amp;gt; 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
