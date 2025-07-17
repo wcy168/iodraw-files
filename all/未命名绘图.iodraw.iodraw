@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s8gvT0iOp-m78rGaopsO-8" value="calculate the discharge power" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="340" width="90" height="60" as="geometry" />
+          <mxGeometry x="425" y="340" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
