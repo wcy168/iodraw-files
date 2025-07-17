@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s8gvT0iOp-m78rGaopsO-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="410" y="60" width="100" height="100" as="geometry" />
+        <mxCell id="s8gvT0iOp-m78rGaopsO-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
