@@ -58,7 +58,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s8gvT0iOp-m78rGaopsO-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="600" y="190" width="340" height="60" as="geometry" />
+          <mxGeometry x="600" y="90" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s8gvT0iOp-m78rGaopsO-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="420" as="sourcePoint" />
+            <mxPoint x="570" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
